@@ -1,7 +1,7 @@
 protected void updateStatusModifiedDate(Long userId, boolean status, boolean wasActive)
 			throws PortalException, SystemException {
 		// activate or deactivate date.
-
+user1
 		if (userId == null)
 			return;
 
