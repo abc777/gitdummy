@@ -35,5 +35,5 @@ protected void updateStatusModifiedDate(Long userId, boolean status, boolean was
 						String.valueOf(new Date().getTime()));
 			}
 		}
-
+user2
 	}
